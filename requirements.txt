@@ -1,0 +1,7 @@
+streamlit
+groq
+pdfplumber
+pdfminer.six
+python-docx
+langdetect
+spacy
