@@ -1,0 +1,29 @@
+SERVICE AGREEMENT
+
+
+1. Scope of Services
+The service provider shall deliver software development and maintenance services as per the requirements communicated by the client.
+
+
+2. Payment Terms
+The client shall pay the service provider a fixed fee of INR 5,00,000 within 120 days from the date of invoice.
+
+
+3. Term and Termination
+This agreement shall be valid for a period of 24 months. The client may terminate this agreement at any time without cause by providing 7 days’ notice. The service provider may terminate only in case of material breach.
+
+
+4. Intellectual Property
+All intellectual property created during the course of this agreement shall be the sole and exclusive property of the client.
+
+
+5. Confidentiality
+Both parties shall maintain strict confidentiality of all business information shared during the term of this agreement.
+
+
+6. Indemnity
+The service provider agrees to indemnify the client against any claims, losses, damages, or expenses arising out of the services provided.
+
+
+7. Governing Law and Jurisdiction
+This agreement shall be governed by the laws of India. Any disputes shall be subject to the exclusive jurisdiction of courts in Bengaluru.
