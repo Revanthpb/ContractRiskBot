@@ -1,6 +1,5 @@
 from utils.file_loader import load_file
 import streamlit as st
-
 from utils.clause_extractor import extract_clauses
 from utils.risk_detector import detect_risk
 from utils.llm_helper import explain_clause
