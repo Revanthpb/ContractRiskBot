@@ -29,6 +29,6 @@ Live deployed application:
 https://contractriskbot-revanthpb.streamlit.app
 
 Demo video:
-(Add your public YouTube or Google Drive demo link here)
+https://drive.google.com/file/d/1a_edqa1VwVr_7cpsr1cO3673BaBj54oJ/view?usp=sharing
 
 This solution empowers Indian SMEs to identify legal risks before signing contracts, understand legal language without legal expertise, reduce dependency on costly legal consultations, and make informed and confident business decisions. API keys are managed securely using environment variables, and all contract processing happens in memory without persistent storage.
